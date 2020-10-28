@@ -1,0 +1,16 @@
+.container {
+  max-width: 1060px;
+  padding-left: 80px;
+  padding-right: 80px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+aside {
+  width: 200px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  float: right;
+  color: blueviolet;
+  border-left: 2px solid;
+}
